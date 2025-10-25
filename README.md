@@ -47,3 +47,6 @@ I don't know who made salcon, the credits in SuperTux 0.0.6 doesn't say who made
 
 ## Why does this exist?
 I don't really know, but at least you'll be able to (sort of) play SuperTux 0.0.6 on Windows or Mac? without using a virtual machine. I mean, it's not really the same since there's not gonna be a level editor and it'll obviously be slightly different than the real SuperTux 0.0.6. Don't worry, this will be available on Linux too.
+
+## Will there be another update?
+I still need to add the credits, so yes, there will be another update.
