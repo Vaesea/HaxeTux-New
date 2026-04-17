@@ -51,4 +51,7 @@ I don't really know, but at least you'll be able to (sort of) play SuperTux 0.0.
 ## Will there be another update?
 I still need to add the credits, so yes, there will be another update.
 
-There's also a lot of new additions in "peppertux-haxe" that could be added here.
+There's also a lot of new additions in "peppertux-haxe" and "foresttux" that could be added here.
+
+## Why hasn't this been updated yet?
+I'm working on some different projects, but I promise I'll come back to update this one.
