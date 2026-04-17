@@ -7,9 +7,9 @@ Recreation of SuperTux 0.0.6 using HaxeFlixel. If the license is wrong, please l
 * The exact same brick breaking effect of the original SuperTux 0.0.6
 * Main Menu (There'll just be a basic main menu with options to view the credits and play the game)
 * Level Editor (Use the latest version of Tiled instead)
-* Holding the Laptop Enemy (I don't know how to add that) (If someone could add this, that would be amazing!) (There's already an (unused) state in Laptop for this, so all that needs to be done (probably) is the actual code)
-* The BSOD enemy jumping when it detects the edge of a platform or something like that (Again, if someone could add this, that would be amazing! It might require adding the tile detecting stuff from RSOD to BSOD but instead of turning around, BSOD could do a small jump?)
-* Enemies being killed when they're on a bonus block / brick block that's being hit by Tux (If someone could add this, that would be amazing!)
+* Holding the Laptop Enemy (I don't know how to add that) (If someone could add this, that would be amazing!) (There's already an (unused) state in Laptop for this, so all that needs to be done (probably) is the actual code) (Planned to be added in the next update)
+* The BSOD enemy jumping when it detects the edge of a platform or something like that (Again, if someone could add this, that would be amazing! It might require adding the tile detecting stuff from RSOD to BSOD but instead of turning around, BSOD could do a small jump?) (Planned to be added in the next update)
+* Enemies being killed when they're on a bonus block / brick block that's being hit by Tux (If someone could add this, that would be amazing!) (Planned to be added in the next update)
 
 ## Credits
 * Vaesea - The recreation
@@ -17,10 +17,10 @@ Recreation of SuperTux 0.0.6 using HaxeFlixel. If the license is wrong, please l
 * Lukas Nystrand (Mortimer Twang) - Mortimer's Chipdisko
 * Larry Ewing - Creator of Tux
 * Discover HaxeFlixel (Book) + Scribd - This is the tutorial I followed to make this recreation.
-* ZhayTee - Ice Music (A song in the files for sky levels) (It's from SuperTux)
-* Wansti - Factory (SuperTux Milestone 1 Song (Although I don't think it was actually in Milestone 1?)) (It's from the SuperTux Media Repository)
-* Bart + OpenGameArt - Airship Song (A song in the files for airship levels) (You can find the song and the licenses here: https://opengameart.org/content/airship-song)
-* Tarush Singhal + OpenGameArt - Sahara Desert Theme / desertv2 (A song in the files for desert levels) (You can find the song and the license here: https://opengameart.org/content/sahara-desert-mario-level)
+* ZhayTee - Ice Music (A song in the files for sky levels) (It's from SuperTux) (Planned to be removed in the next update)
+* Wansti - Factory (SuperTux Milestone 1 Song (Although I don't think it was actually in Milestone 1?)) (It's from the SuperTux Media Repository) (Planned to be removed in the next update)
+* Bart + OpenGameArt - Airship Song (A song in the files for airship levels) (You can find the song and the licenses here: https://opengameart.org/content/airship-song) (Planned to be removed in the next update)
+* Tarush Singhal + OpenGameArt - Sahara Desert Theme / desertv2 (A song in the files for desert levels) (You can find the song and the license here: https://opengameart.org/content/sahara-desert-mario-level) (Planned to be removed in the next update)
 
 ## More Info
 I don't know who made salcon, the credits in SuperTux 0.0.6 doesn't say who made it I think.
